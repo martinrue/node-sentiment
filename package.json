@@ -1,0 +1,10 @@
+{
+  "name": "node-sentiment",
+  "version": "0.0.1",
+  "main": "main",
+  "author": "Martin Rue <hello@martinrue.com>",
+  "description": "A simple naive Bayes classifier for textual sentiment analysis",
+  "dependencies": {
+    "underscore": "~1.3.3"
+  }
+}
